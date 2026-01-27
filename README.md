@@ -131,14 +131,14 @@ python test.py
 ```
 torch==2.9.1
 torchvision==0.24.1
-matplotlib==3.7.2
-jupyterlab==4.0.5
-opencv-python==4.8.1.78
-gradio==4.4.0
-python-telegram-bot==20.6
-facenet-pytorch==2.5.2
-scikit-learn==1.3.0
-tqdm==4.66.1
+matplotlib==3.10.1
+jupyterlab==4.3.5
+opencv-python==4.11.0.86
+gradio==6.4.0
+python-telegram-bot==22.6
+facenet-pytorch==2.6.0
+scikit-learn==1.7.2
+tqdm==4.67.1
 ```
 
 Установка одной командой:
