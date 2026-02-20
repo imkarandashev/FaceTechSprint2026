@@ -40,7 +40,7 @@
 
 ### 1. Клонируйте репозиторий
 ```bash
-git clone https://github.com/YOUR_USERNAME/FaceTechSprint2026.git
+git clone https://github.com/imkarandashev/FaceTechSprint2026.git
 cd FaceTechSprint2026
 ```
 
